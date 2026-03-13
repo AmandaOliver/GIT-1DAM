@@ -1,3 +1,7 @@
 Hola
 
+<<<<<<< HEAD
 A juanka le gustan los niños
+=======
+Prueba confictos
+>>>>>>> b9494d1163715f6ec64c93cea95cf986776b7e50

@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 Buenas
 Alfonso maquina
-=======
 Tardes
 Hala Madrid
->>>>>>> edf4edcae8a7f065f08674dd72169ab3116feda8
