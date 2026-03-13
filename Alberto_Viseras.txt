@@ -1,2 +1,3 @@
 Prueba GitHub
 Prueba ramas
+Generación de conflictos
