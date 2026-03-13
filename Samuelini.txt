@@ -1,4 +1,10 @@
 yo soy yo pero en rama otra e
+<<<<<<< HEAD
 
 yo soy yo
 n9ge
+=======
+n9ge
+
+aaa
+>>>>>>> SamueliniPauliniGusinii
