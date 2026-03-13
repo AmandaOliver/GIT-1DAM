@@ -1,2 +1,3 @@
 marwa.txt
 Hola soy yo
+Generación de conflicto
