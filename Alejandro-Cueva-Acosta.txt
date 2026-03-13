@@ -1,3 +1,13 @@
 Alejandro Cueva Acosta 
+<<<<<<< HEAD
+<<<<<<< HEAD
+Esto es una prueba
+Estudiando 1 DAM DOM
+=======
 Estudiando 1 DAM
 Prueba PR
+>>>>>>> Alejandro-Cueva-Acosta
+=======
+Estudiando 1 DAM
+Prueba PR
+>>>>>>> 8cbfb201058b37d99e9db1583362ce4352b08deb
